@@ -1,6 +1,6 @@
 import java.util.regex.*;
 
-public class Example1 {
+public class PatterrnCls {
     public static void main(String args[]){
         Pattern p = Pattern.compile(".xx.");
         Matcher m = p.matcher("AxxB");
